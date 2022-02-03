@@ -6,7 +6,7 @@
  
  - Learn building machine learning models
  
- - Finally, work on a project based on real data
+ - Finally, work on a project based on real data.
 
  ## Questions
  - Reach me out at arjunsingh.yadaw@nih.gov or slack me at @Arjun Yadaw
